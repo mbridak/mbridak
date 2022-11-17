@@ -2,7 +2,7 @@
 - 👀 I’m interested in Amateur Radio and Python.
 - 🌱 I’m currently learning and forgetting Morse Code.
 - 📫 How to reach me michael.bridak@gmail.com
-- 📫 Or @k6gte@mastodon.radio
+- 📫 Or <a rel="me" href="https://mastodon.radio/@k6gte">Mastodon</a>
 
 <!---
 mbridak/mbridak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
