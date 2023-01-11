@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mbridak
-- 👀 I’m interested in Amateur Radio and Python.
-- 🌱 I’m currently learning and forgetting Morse Code.
+- 📻 🐍 I’m interested in Amateur Radio (K6GTE) and Python (Hopeless Noob).
+- 🧠 I’m currently learning and forgetting Morse Code (Deer in headlights).
 - 📫 How to reach me michael.bridak@gmail.com
 - 📫 Or <a rel="me" href="https://mastodon.radio/@k6gte">Mastodon</a>
 
